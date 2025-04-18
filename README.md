@@ -6,6 +6,12 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Xavierburton/osticket-prereqs)
 
 - <b>Microsoft Azure</b>
+
+Remote Desktop
+Active Directory Domain Services
+VPN/ VPN Within VM
+PowerShell
+
   - [Configuring On-premises Active Directory within Azure VMs][(https://github.com/Xavierburton/configure-ad)](https://github.com/xavierburton/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
 <h2>🤳Connect with me:</h2>
