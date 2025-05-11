@@ -4,6 +4,8 @@ Driven by a passion for technology and innovation, I am an emerging IT professio
 
 Currently honing my skills through hands on work, college, and programs. I am commited to continuous learning, knowledge, and staying ahead of an evolving industry.
 
+My current skills include but not limited to Microsoft Office Suite, Help Desk, Ticketing System, VPNS, Azure, Network Security Groups, Firewalls, ACLs (Access Control Lists), Virtual Machines, Virtual Networks, Cloud Computing, Active Directory, File Permissions, Windows 10, PowerShell, Wireshark, Resource groups, Account management, Group Policy, customer support, money handling, heavy machinery.
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
