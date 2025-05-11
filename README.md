@@ -2,7 +2,7 @@
 
 Driven by a passion for technology and innovation, I am an emerging IT professional eager to make a meaningful impact in the field. With a strong foundation in networking, network security, cloud computing, software development, and customer support. I bring a blend of technical expertise and problem-solving abilities to every challenge.
 
-Currently honing my skills through hands on work, college, and programs. I am commited to continuous learning, knowledge, and stayin ahead of an evolving industry.
+Currently honing my skills through hands on work, college, and programs. I am commited to continuous learning, knowledge, and staying ahead of an evolving industry.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
